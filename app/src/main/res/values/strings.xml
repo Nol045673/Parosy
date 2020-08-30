@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Parosu</string>
+    <string name="start">Начать</string>
+    <string name="back">Назад</string>
+    <string name="pause">ПАУЗА</string>
+    <string name="contin">Продолжить</string>
+    <string name="resume">Заново</string>
+    <string name="back_pause">Выйти</string>
+    <string name="combo_lvl_itog">Комбо:</string>
+    <string name="ochki_lvl_itog">Очки:</string>
+    <string name="fail">ПРОИГРЫШ</string>
+    <string name="lvl1">Обучение</string>
+    <string name="lvl2">Бесконечный уровень</string>
+    <string name="Welcome">Добро пожаловать в игру!</string>
+    <string name="Welcome_text">Parosu - ритм-игра,
+        где следует нажимать на кнопки в нужный момент
+        под музыку!</string>
+    <string name="_00000">00000</string>
+    <string name="records">Рекорды</string>
+</resources>
